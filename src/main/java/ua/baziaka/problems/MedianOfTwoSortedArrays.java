@@ -9,7 +9,7 @@ public class MedianOfTwoSortedArrays {
 
         int length = nums3.length;
         int i = 0;
-        int j =0;
+        
 
         for (int k = 0; k < length; k++) {
             if (i >= nums1.length) {
