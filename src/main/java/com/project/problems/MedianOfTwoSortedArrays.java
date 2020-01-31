@@ -1,4 +1,4 @@
-package ua.baziaka.problems;
+package com.project.problems;
 
 /**
  * https://leetcode.com/problems/median-of-two-sorted-arrays/description/
