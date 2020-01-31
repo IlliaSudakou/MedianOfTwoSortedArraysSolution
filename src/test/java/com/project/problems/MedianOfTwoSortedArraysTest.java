@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 public class MedianOfTwoSortedArraysTest {
     @Test
     public void test1() {
-        assertTrue(true);
+        assertTrue(false);
     }
 
     @Test
