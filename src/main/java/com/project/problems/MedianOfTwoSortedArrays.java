@@ -33,6 +33,6 @@ public class MedianOfTwoSortedArrays {
             median = (m1 + m2) / 2d;
         }
 
-        return median;
+        return median
     }
 }
