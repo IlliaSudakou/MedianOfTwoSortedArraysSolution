@@ -12,7 +12,7 @@ public class MedianOfTwoSortedArraysTest {
 
     @Test
     public void test2() {
-        assertTrue(true);
+        assertTrue(true)
     }
     
 }
