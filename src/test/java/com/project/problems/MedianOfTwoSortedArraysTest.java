@@ -14,14 +14,5 @@ public class MedianOfTwoSortedArraysTest {
     public void test2() {
         assertTrue(true);
     }
-
-    @Test
-    public void test3() {
-        assertTrue(false);
-    }
-
-    @Test
-    public void test4() {
-        assertTrue(false);
-    }
+    
 }
